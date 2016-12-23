@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="TelecontrollerView">
+    <attr format="dimension" name="centerCircleRadius"/>
+    <attr format="dimension" name="outMenuWidth"/>
+    <attr format="dimension" name="centerMargin"/>
+    <attr format="integer" name="menuAngle"/>
+  </declare-styleable>
+</resources>
