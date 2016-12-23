@@ -1,5 +1,5 @@
 #Telecontroller View
-![image](https://github.com/KIDNG/TelecontrollerView/image/view.png)
+<img src="/image/view.png"/>
 
 #use
 ```
