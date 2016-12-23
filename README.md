@@ -1,4 +1,16 @@
 #Telecontroller View
+![image](https://github.com/KIDNG/TelecontrollerView/image/view.png)
+
+#use
+```
+  <cn.kidng.telecontrollerview.TelecontrollerView
+      android:layout_width="200dp"
+      android:layout_height="200dp"
+      app:centerCircleRadius="50dp"
+      app:menuAngle="80"
+      app:centerMargin="10dp"
+      app:outMenuWidth="35dp"/>
+```
 
 #Thanks
 [gcssloop](http://www.gcssloop.com/customview/touch-matrix-region)
